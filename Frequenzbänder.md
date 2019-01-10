@@ -9,10 +9,12 @@
 
 135.7 KHz - 137.8 KHz
 2200 Meter Band Langewelle
+
 --  
 
 472 KHz - 479 KHz
 630 Meter Band Mittelwelle Radio
+
 --
 
 1.810 MHz - 2.000 MHz
@@ -27,6 +29,7 @@
 
 3.200 MHz  - 3.400 Mhz
 90 Meter KW-Radio, dazwischen auch andere Anwendungen
+
 --
 
 3.500 MHz - 3.800 MHz
