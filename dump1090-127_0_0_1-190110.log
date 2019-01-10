@@ -1,0 +1,157 @@
+10Jan19 13:24:57 pid=17857 - vidit === NEW RUN MARKER ============================
+10Jan19 13:24:57 pid=17857 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+10Jan19 13:24:57 pid=17857 L vidit Section: [common]
+10Jan19 13:24:57 pid=17857 L vidit    filemask = dump*.txt
+10Jan19 13:24:57 pid=17857 L vidit    #datadirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    #logdirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    piddirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    #outputdirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    distanceunit = kilometer
+10Jan19 13:24:57 pid=17857 L vidit    altitudeunit = meter
+10Jan19 13:24:57 pid=17857 L vidit    speedunit = kilometerph
+10Jan19 13:24:57 pid=17857 L vidit    latitude = 49.9455248
+10Jan19 13:24:57 pid=17857 L vidit    longitude = 7.9430989
+10Jan19 13:24:57 pid=17857 L vidit    override = no
+10Jan19 13:24:57 pid=17857 L vidit    timestamp = no
+10Jan19 13:24:57 pid=17857 L vidit    sequencenumber = no
+10Jan19 13:24:57 pid=17857 L vidit Section: [socket30003]
+10Jan19 13:24:57 pid=17857 L vidit    PEER_HOST = 127.0.0.1
+10Jan19 13:24:57 pid=17857 L vidit    TIME_MESSAGE_MARGIN = 10
+10Jan19 13:24:57 pid=17857 L vidit    showpositions = no
+10Jan19 13:24:57 pid=17857 L vidit    #datadirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    #logdirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    #piddirectory = /tmp
+10Jan19 13:24:57 pid=17857 L vidit    #distanceunit = kilometer
+10Jan19 13:24:57 pid=17857 L vidit    #altitudeunit = meter
+10Jan19 13:24:57 pid=17857 L vidit    #speedunit = kilometerph
+10Jan19 13:24:57 pid=17857 L vidit    #latitude = 52.085624
+10Jan19 13:24:57 pid=17857 L vidit    #longitude = 5.0890591
+10Jan19 13:24:57 pid=17857 I vidit Using the unit 'kilometer' for the distance, 'meter' for the altitude and 'kilometerph' for the speed.
+10Jan19 13:24:57 pid=17857 I vidit Trying to connect to peer host '127.0.0.1'...
+10Jan19 13:24:57 pid=17857 I vidit The antenna latitude & longitude are: '49.9455248','7.9430989'
+10Jan19 13:24:57 pid=17857 I vidit The data directory/file is: ./dump/dump1090-127_0_0_1-190110.txt
+10Jan19 13:24:57 pid=17857 I vidit The log  directory/file is: ./dump/dump1090-127_0_0_1-190110.log
+10Jan19 13:24:57 pid=17857 I vidit Starting 'socket30003.pl'....
+10Jan19 13:24:57 pid=17857 I vidit 'socket30003.pl' (17857) is started! Using pidfile /tmp/dump1090-127_0_0_1.pid.
+10Jan19 13:24:57 pid=17857 I vidit Log file: './dump/dump1090-127_0_0_1-190110.log'
+10Jan19 13:24:57 pid=17857 L vidit current number of flights=1,epoch=2019-01-10/13:24:57,msg_count=1,pos_count=4,flight_count=1,con_lost=1.
+10Jan19 13:25:00 pid=17857 L vidit current number of flights=5,epoch=2019-01-10/13:25:00,msg_count=72,pos_count=7,flight_count=5,con_lost=1.
+10Jan19 13:26:00 pid=17857 L vidit current number of flights=9,epoch=2019-01-10/13:26:00,msg_count=1895,pos_count=79,flight_count=9,con_lost=1.
+10Jan19 13:27:00 pid=17857 L vidit current number of flights=11,epoch=2019-01-10/13:27:00,msg_count=4187,pos_count=164,flight_count=11,con_lost=1.
+10Jan19 13:28:00 pid=17857 L vidit current number of flights=15,epoch=2019-01-10/13:28:00,msg_count=7506,pos_count=299,flight_count=15,con_lost=1.
+10Jan19 13:28:00 pid=17857 L vidit removed:4BAB48,first seen=2019-01-10/13:25:27,last seen=2019-01-10/13:25:27,message_count=1,position_count=0.
+10Jan19 13:29:00 pid=17857 L vidit current number of flights=14,epoch=2019-01-10/13:29:00,msg_count=10545,pos_count=415,flight_count=15,con_lost=1.
+10Jan19 13:29:00 pid=17857 L vidit removed:E48DF6,first seen=2019-01-10/13:24:57,last seen=2019-01-10/13:26:54,message_count=376,position_count=43.
+10Jan19 13:29:00 pid=17857 L vidit removed:4CA65D,first seen=2019-01-10/13:26:04,last seen=2019-01-10/13:26:04,message_count=1,position_count=0.
+10Jan19 13:30:00 pid=17857 L vidit current number of flights=13,epoch=2019-01-10/13:30:00,msg_count=11740,pos_count=454,flight_count=16,con_lost=1.
+10Jan19 13:30:00 pid=17857 L vidit removed:44CE73,first seen=2019-01-10/13:27:23,last seen=2019-01-10/13:27:42,message_count=3,position_count=1.
+10Jan19 13:31:00 pid=17857 L vidit current number of flights=13,epoch=2019-01-10/13:31:00,msg_count=12598,pos_count=478,flight_count=17,con_lost=1.
+10Jan19 13:31:00 pid=17857 L vidit removed:3D3806,first seen=2019-01-10/13:24:57,last seen=2019-01-10/13:28:07,message_count=373,position_count=0.
+10Jan19 13:32:00 pid=17857 L vidit current number of flights=13,epoch=2019-01-10/13:32:00,msg_count=13419,pos_count=503,flight_count=18,con_lost=1.
+10Jan19 13:32:00 pid=17857 L vidit removed:78022D,first seen=2019-01-10/13:24:57,last seen=2019-01-10/13:29:41,message_count=102,position_count=11.
+10Jan19 13:32:00 pid=17857 L vidit removed:398560,first seen=2019-01-10/13:25:02,last seen=2019-01-10/13:29:29,message_count=1298,position_count=0.
+10Jan19 13:32:00 pid=17857 L vidit removed:4A09AD,first seen=2019-01-10/13:24:57,last seen=2019-01-10/13:29:55,message_count=1134,position_count=40.
+10Jan19 13:32:00 pid=17857 L vidit removed:392AF5,first seen=2019-01-10/13:26:40,last seen=2019-01-10/13:29:45,message_count=769,position_count=50.
+10Jan19 13:32:00 pid=17857 L vidit removed:ADD143,first seen=2019-01-10/13:27:09,last seen=2019-01-10/13:29:30,message_count=556,position_count=19.
+10Jan19 13:33:00 pid=17857 L vidit current number of flights=8,epoch=2019-01-10/13:33:00,msg_count=15145,pos_count=539,flight_count=18,con_lost=1.
+10Jan19 13:33:00 pid=17857 L vidit removed:3C6595,first seen=2019-01-10/13:27:16,last seen=2019-01-10/13:30:00,message_count=4,position_count=0.
+10Jan19 13:33:00 pid=17857 L vidit removed:4853D4,first seen=2019-01-10/13:25:44,last seen=2019-01-10/13:30:29,message_count=3065,position_count=131.
+10Jan19 13:34:00 pid=17857 L vidit current number of flights=8,epoch=2019-01-10/13:34:00,msg_count=17209,pos_count=562,flight_count=20,con_lost=1.
+10Jan19 13:34:00 pid=17857 L vidit removed:406FD8,first seen=2019-01-10/13:30:28,last seen=2019-01-10/13:31:49,message_count=95,position_count=1.
+10Jan19 13:35:00 pid=17857 L vidit current number of flights=9,epoch=2019-01-10/13:35:00,msg_count=18252,pos_count=564,flight_count=22,con_lost=1.
+10Jan19 13:35:00 pid=17857 L vidit removed:440031,first seen=2019-01-10/13:25:46,last seen=2019-01-10/13:32:24,message_count=2862,position_count=106.
+10Jan19 13:36:00 pid=17857 L vidit current number of flights=9,epoch=2019-01-10/13:36:00,msg_count=19571,pos_count=640,flight_count=23,con_lost=1.
+10Jan19 13:36:00 pid=17857 L vidit removed:4D2130,first seen=2019-01-10/13:24:58,last seen=2019-01-10/13:33:39,message_count=1890,position_count=70.
+10Jan19 13:36:00 pid=17857 L vidit removed:3C6643,first seen=2019-01-10/13:33:26,last seen=2019-01-10/13:33:27,message_count=5,position_count=1.
+10Jan19 13:37:00 pid=17857 L vidit current number of flights=10,epoch=2019-01-10/13:37:00,msg_count=20866,pos_count=709,flight_count=26,con_lost=1.
+10Jan19 13:37:00 pid=17857 L vidit removed:39CD02,first seen=2019-01-10/13:27:31,last seen=2019-01-10/13:34:19,message_count=2348,position_count=85.
+10Jan19 13:38:00 pid=17857 L vidit current number of flights=11,epoch=2019-01-10/13:38:00,msg_count=21628,pos_count=741,flight_count=28,con_lost=1.
+10Jan19 13:39:00 pid=17857 L vidit current number of flights=11,epoch=2019-01-10/13:39:00,msg_count=22804,pos_count=796,flight_count=28,con_lost=1.
+10Jan19 13:39:00 pid=17857 L vidit removed:398561,first seen=2019-01-10/13:29:05,last seen=2019-01-10/13:36:03,message_count=1899,position_count=0.
+10Jan19 13:40:00 pid=17857 L vidit current number of flights=11,epoch=2019-01-10/13:40:00,msg_count=24008,pos_count=840,flight_count=29,con_lost=1.
+10Jan19 13:40:00 pid=17857 L vidit removed:780D9C,first seen=2019-01-10/13:34:51,last seen=2019-01-10/13:37:11,message_count=948,position_count=39.
+10Jan19 13:40:00 pid=17857 L vidit removed:4692C8,first seen=2019-01-10/13:36:49,last seen=2019-01-10/13:37:26,message_count=8,position_count=0.
+10Jan19 13:40:00 pid=17857 L vidit removed:C01723,first seen=2019-01-10/13:36:23,last seen=2019-01-10/13:37:17,message_count=16,position_count=1.
+10Jan19 13:40:00 pid=17857 L vidit removed:3C6445,first seen=2019-01-10/13:37:28,last seen=2019-01-10/13:37:28,message_count=4,position_count=0.
+10Jan19 13:40:00 pid=17857 L vidit removed:344455,first seen=2019-01-10/13:36:51,last seen=2019-01-10/13:37:06,message_count=10,position_count=0.
+10Jan19 13:41:00 pid=17857 L vidit current number of flights=7,epoch=2019-01-10/13:41:00,msg_count=25057,pos_count=896,flight_count=30,con_lost=1.
+10Jan19 13:41:00 pid=17857 L vidit removed:406FD8,first seen=2019-01-10/13:34:33,last seen=2019-01-10/13:38:31,message_count=652,position_count=23.
+10Jan19 13:41:00 pid=17857 L vidit removed:44034E,first seen=2019-01-10/13:31:31,last seen=2019-01-10/13:38:45,message_count=1774,position_count=0.
+10Jan19 13:42:00 pid=17857 L vidit current number of flights=9,epoch=2019-01-10/13:42:00,msg_count=26027,pos_count=946,flight_count=34,con_lost=1.
+10Jan19 13:42:00 pid=17857 L vidit removed:4076BA,first seen=2019-01-10/13:33:50,last seen=2019-01-10/13:39:35,message_count=1787,position_count=157.
+10Jan19 13:43:00 pid=17857 L vidit current number of flights=11,epoch=2019-01-10/13:43:00,msg_count=27110,pos_count=1024,flight_count=37,con_lost=1.
+10Jan19 13:43:00 pid=17857 L vidit removed:43E879,first seen=2019-01-10/13:37:27,last seen=2019-01-10/13:40:54,message_count=1353,position_count=0.
+10Jan19 13:44:00 pid=17857 L vidit current number of flights=14,epoch=2019-01-10/13:44:00,msg_count=28582,pos_count=1094,flight_count=41,con_lost=1.
+10Jan19 13:44:00 pid=17857 L vidit removed:3C65A7,first seen=2019-01-10/13:41:03,last seen=2019-01-10/13:41:03,message_count=2,position_count=0.
+10Jan19 13:44:00 pid=17857 L vidit removed:4CAABF,first seen=2019-01-10/13:41:13,last seen=2019-01-10/13:41:13,message_count=2,position_count=0.
+10Jan19 13:45:00 pid=17857 L vidit current number of flights=15,epoch=2019-01-10/13:45:00,msg_count=31433,pos_count=1274,flight_count=44,con_lost=1.
+10Jan19 13:45:00 pid=17857 L vidit removed:4BAA6F,first seen=2019-01-10/13:42:23,last seen=2019-01-10/13:42:54,message_count=19,position_count=2.
+10Jan19 13:46:00 pid=17857 L vidit current number of flights=15,epoch=2019-01-10/13:46:00,msg_count=33707,pos_count=1410,flight_count=45,con_lost=1.
+10Jan19 13:46:00 pid=17857 L vidit removed:AE04F2,first seen=2019-01-10/13:35:30,last seen=2019-01-10/13:43:28,message_count=565,position_count=42.
+10Jan19 13:46:00 pid=17857 L vidit removed:C01723,first seen=2019-01-10/13:40:55,last seen=2019-01-10/13:43:57,message_count=226,position_count=11.
+10Jan19 13:46:00 pid=17857 L vidit removed:43E879,first seen=2019-01-10/13:43:50,last seen=2019-01-10/13:43:50,message_count=1,position_count=0.
+10Jan19 13:47:00 pid=17857 L vidit current number of flights=12,epoch=2019-01-10/13:47:00,msg_count=35395,pos_count=1550,flight_count=45,con_lost=1.
+10Jan19 13:48:00 pid=17857 L vidit current number of flights=15,epoch=2019-01-10/13:48:00,msg_count=36207,pos_count=1604,flight_count=48,con_lost=1.
+10Jan19 13:48:00 pid=17857 L vidit removed:A8CD6A,first seen=2019-01-10/13:44:25,last seen=2019-01-10/13:45:35,message_count=159,position_count=26.
+10Jan19 13:48:00 pid=17857 L vidit removed:4CA6D3,first seen=2019-01-10/13:42:33,last seen=2019-01-10/13:45:35,message_count=980,position_count=68.
+10Jan19 13:48:00 pid=17857 L vidit removed:3C6671,first seen=2019-01-10/13:43:52,last seen=2019-01-10/13:45:39,message_count=31,position_count=4.
+10Jan19 13:49:00 pid=17857 L vidit current number of flights=13,epoch=2019-01-10/13:49:00,msg_count=36844,pos_count=1612,flight_count=49,con_lost=1.
+10Jan19 13:50:00 pid=17857 L vidit current number of flights=16,epoch=2019-01-10/13:50:00,msg_count=39082,pos_count=1653,flight_count=52,con_lost=1.
+10Jan19 13:50:00 pid=17857 L vidit removed:3C674D,first seen=2019-01-10/13:39:10,last seen=2019-01-10/13:47:51,message_count=2419,position_count=132.
+10Jan19 13:50:00 pid=17857 L vidit removed:000000,first seen=2019-01-10/13:44:09,last seen=2019-01-10/13:47:53,message_count=57,position_count=0.
+10Jan19 13:50:00 pid=17857 L vidit removed:3C6670,first seen=2019-01-10/13:47:13,last seen=2019-01-10/13:47:28,message_count=8,position_count=0.
+10Jan19 13:51:56 pid=14095 - vidit === NEW RUN MARKER ============================
+10Jan19 13:51:56 pid=14095 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+10Jan19 13:51:56 pid=14095 L vidit Section: [common]
+10Jan19 13:51:56 pid=14095 L vidit    filemask = dump*.txt
+10Jan19 13:51:56 pid=14095 L vidit    #datadirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    #logdirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    piddirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    #outputdirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    distanceunit = kilometer
+10Jan19 13:51:56 pid=14095 L vidit    altitudeunit = meter
+10Jan19 13:51:56 pid=14095 L vidit    speedunit = kilometerph
+10Jan19 13:51:56 pid=14095 L vidit    latitude = 49.9455248
+10Jan19 13:51:56 pid=14095 L vidit    longitude = 7.9430989
+10Jan19 13:51:56 pid=14095 L vidit    override = no
+10Jan19 13:51:56 pid=14095 L vidit    timestamp = no
+10Jan19 13:51:56 pid=14095 L vidit    sequencenumber = no
+10Jan19 13:51:56 pid=14095 L vidit Section: [socket30003]
+10Jan19 13:51:56 pid=14095 L vidit    PEER_HOST = 127.0.0.1
+10Jan19 13:51:56 pid=14095 L vidit    TIME_MESSAGE_MARGIN = 10
+10Jan19 13:51:56 pid=14095 L vidit    showpositions = no
+10Jan19 13:51:56 pid=14095 L vidit    #datadirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    #logdirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    #piddirectory = /tmp
+10Jan19 13:51:56 pid=14095 L vidit    #distanceunit = kilometer
+10Jan19 13:51:56 pid=14095 L vidit    #altitudeunit = meter
+10Jan19 13:51:56 pid=14095 L vidit    #speedunit = kilometerph
+10Jan19 13:51:56 pid=14095 L vidit    #latitude = 52.085624
+10Jan19 13:51:56 pid=14095 L vidit    #longitude = 5.0890591
+10Jan19 13:51:56 pid=14095 I vidit Using the unit 'kilometer' for the distance, 'meter' for the altitude and 'kilometerph' for the speed.
+10Jan19 13:51:56 pid=14095 I vidit Trying to connect to peer host '127.0.0.1'...
+10Jan19 13:51:56 pid=14095 I vidit The antenna latitude & longitude are: '49.9455248','7.9430989'
+10Jan19 13:51:56 pid=14095 I vidit The data directory/file is: ./dump/dump1090-127_0_0_1-190110.txt
+10Jan19 13:51:56 pid=14095 I vidit The log  directory/file is: ./dump/dump1090-127_0_0_1-190110.log
+10Jan19 13:51:56 pid=14095 I vidit Starting 'socket30003.pl'....
+10Jan19 13:51:56 pid=14095 I vidit 'socket30003.pl' (14095) is started! Using pidfile /tmp/dump1090-127_0_0_1.pid.
+10Jan19 13:51:56 pid=14095 I vidit Log file: './dump/dump1090-127_0_0_1-190110.log'
+10Jan19 13:51:56 pid=14095 L vidit current number of flights=1,epoch=2019-01-10/13:51:56,msg_count=1,pos_count=4,flight_count=1,con_lost=1.
+10Jan19 13:52:00 pid=14095 L vidit current number of flights=5,epoch=2019-01-10/13:52:00,msg_count=206,pos_count=16,flight_count=5,con_lost=1.
+10Jan19 13:53:00 pid=14095 L vidit current number of flights=8,epoch=2019-01-10/13:53:00,msg_count=2501,pos_count=137,flight_count=8,con_lost=1.
+10Jan19 13:54:00 pid=14095 L vidit current number of flights=9,epoch=2019-01-10/13:54:00,msg_count=3280,pos_count=185,flight_count=9,con_lost=1.
+10Jan19 13:55:00 pid=14095 L vidit current number of flights=11,epoch=2019-01-10/13:55:00,msg_count=4297,pos_count=233,flight_count=11,con_lost=1.
+10Jan19 13:55:00 pid=14095 L vidit removed:407025,first seen=2019-01-10/13:51:56,last seen=2019-01-10/13:52:49,message_count=82,position_count=0.
+10Jan19 13:56:00 pid=14095 L vidit current number of flights=13,epoch=2019-01-10/13:56:00,msg_count=6651,pos_count=347,flight_count=14,con_lost=1.
+10Jan19 13:56:00 pid=14095 L vidit removed:3C4D6A,first seen=2019-01-10/13:52:04,last seen=2019-01-10/13:53:53,message_count=46,position_count=0.
+10Jan19 13:56:00 pid=14095 L vidit removed:4CA6A6,first seen=2019-01-10/13:51:56,last seen=2019-01-10/13:53:04,message_count=144,position_count=8.
+10Jan19 13:56:00 pid=14095 L vidit removed:400969,first seen=2019-01-10/13:51:56,last seen=2019-01-10/13:53:34,message_count=342,position_count=0.
+10Jan19 13:57:00 pid=14095 L vidit current number of flights=12,epoch=2019-01-10/13:57:00,msg_count=9426,pos_count=505,flight_count=16,con_lost=1.
+10Jan19 13:58:00 pid=14095 L vidit current number of flights=14,epoch=2019-01-10/13:58:00,msg_count=11714,pos_count=677,flight_count=18,con_lost=1.
+10Jan19 13:58:00 pid=14095 L vidit removed:4CA2BF,first seen=2019-01-10/13:52:45,last seen=2019-01-10/13:55:36,message_count=125,position_count=4.
+10Jan19 13:58:00 pid=14095 L vidit removed:4BAA4E,first seen=2019-01-10/13:51:56,last seen=2019-01-10/13:55:01,message_count=930,position_count=43.
+10Jan19 13:58:00 pid=14095 L vidit removed:3C6614,first seen=2019-01-10/13:51:56,last seen=2019-01-10/13:55:09,message_count=1504,position_count=115.
+10Jan19 13:59:00 pid=14095 L vidit current number of flights=14,epoch=2019-01-10/13:59:00,msg_count=13423,pos_count=792,flight_count=21,con_lost=1.
+10Jan19 13:59:00 pid=14095 L vidit removed:3C6583,first seen=2019-01-10/13:54:27,last seen=2019-01-10/13:56:31,message_count=14,position_count=0.
+10Jan19 14:00:00 pid=14095 L vidit current number of flights=17,epoch=2019-01-10/14:00:00,msg_count=15645,pos_count=919,flight_count=25,con_lost=1.
+10Jan19 14:00:00 pid=14095 L vidit removed:4CA769,first seen=2019-01-10/13:52:36,last seen=2019-01-10/13:57:31,message_count=1655,position_count=98.
