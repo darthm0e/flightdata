@@ -155,3 +155,18 @@
 10Jan19 13:59:00 pid=14095 L vidit removed:3C6583,first seen=2019-01-10/13:54:27,last seen=2019-01-10/13:56:31,message_count=14,position_count=0.
 10Jan19 14:00:00 pid=14095 L vidit current number of flights=17,epoch=2019-01-10/14:00:00,msg_count=15645,pos_count=919,flight_count=25,con_lost=1.
 10Jan19 14:00:00 pid=14095 L vidit removed:4CA769,first seen=2019-01-10/13:52:36,last seen=2019-01-10/13:57:31,message_count=1655,position_count=98.
+10Jan19 14:01:00 pid=14095 L vidit current number of flights=16,epoch=2019-01-10/14:01:00,msg_count=18223,pos_count=1048,flight_count=25,con_lost=1.
+10Jan19 14:01:00 pid=14095 L vidit removed:A7D6B7,first seen=2019-01-10/13:54:17,last seen=2019-01-10/13:58:33,message_count=2063,position_count=0.
+10Jan19 14:01:00 pid=14095 L vidit removed:3C70C3,first seen=2019-01-10/13:55:18,last seen=2019-01-10/13:58:29,message_count=622,position_count=46.
+10Jan19 14:02:00 pid=14095 L vidit current number of flights=17,epoch=2019-01-10/14:02:00,msg_count=20027,pos_count=1149,flight_count=28,con_lost=1.
+10Jan19 14:02:00 pid=14095 L vidit removed:88510B,first seen=2019-01-10/13:55:17,last seen=2019-01-10/13:59:45,message_count=1650,position_count=98.
+10Jan19 14:02:00 pid=14095 L vidit removed:AE16F4,first seen=2019-01-10/13:59:49,last seen=2019-01-10/13:59:49,message_count=2,position_count=0.
+10Jan19 14:03:00 pid=14095 L vidit current number of flights=15,epoch=2019-01-10/14:03:00,msg_count=22451,pos_count=1271,flight_count=28,con_lost=1.
+10Jan19 14:03:00 pid=14095 L vidit removed:406F79,first seen=2019-01-10/13:57:31,last seen=2019-01-10/14:00:36,message_count=156,position_count=7.
+10Jan19 14:03:00 pid=14095 L vidit removed:440062,first seen=2019-01-10/13:59:33,last seen=2019-01-10/14:00:13,message_count=31,position_count=2.
+10Jan19 14:03:00 pid=14095 L vidit removed:40087A,first seen=2019-01-10/13:53:53,last seen=2019-01-10/14:00:13,message_count=2291,position_count=242.
+10Jan19 14:04:00 pid=14095 L vidit current number of flights=15,epoch=2019-01-10/14:04:00,msg_count=24945,pos_count=1426,flight_count=31,con_lost=1.
+10Jan19 14:04:00 pid=14095 L vidit removed:40095D,first seen=2019-01-10/13:56:15,last seen=2019-01-10/14:01:36,message_count=1406,position_count=135.
+10Jan19 14:04:00 pid=14095 L vidit removed:484CC3,first seen=2019-01-10/14:01:02,last seen=2019-01-10/14:01:02,message_count=2,position_count=0.
+10Jan19 14:04:00 pid=14095 L vidit removed:AE1708,first seen=2019-01-10/13:55:59,last seen=2019-01-10/14:01:55,message_count=107,position_count=0.
+10Jan19 14:04:00 pid=14095 L vidit removed:A1AA10,first seen=2019-01-10/13:58:40,last seen=2019-01-10/14:01:21,message_count=75,position_count=3.
