@@ -207,3 +207,156 @@
 11Jan19 11:34:00 pid=16289 L vidit removed:000000,first seen=2019-01-11/11:30:04,last seen=2019-01-11/11:31:30,message_count=19,position_count=0.
 11Jan19 11:34:00 pid=16289 L vidit removed:484555,first seen=2019-01-11/11:30:34,last seen=2019-01-11/11:31:19,message_count=10,position_count=0.
 11Jan19 11:34:00 pid=16289 L vidit removed:406F7C,first seen=2019-01-11/11:30:24,last seen=2019-01-11/11:31:16,message_count=4,position_count=0.
+11Jan19 11:35:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/11:35:00,msg_count=3559,pos_count=181,flight_count=15,con_lost=1.
+11Jan19 11:35:00 pid=16289 L vidit removed:4CA6FD,first seen=2019-01-11/11:29:50,last seen=2019-01-11/11:32:34,message_count=344,position_count=23.
+11Jan19 11:36:01 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/11:36:01,msg_count=4307,pos_count=213,flight_count=16,con_lost=1.
+11Jan19 11:36:01 pid=16289 L vidit removed:4CA93A,first seen=2019-01-11/11:30:39,last seen=2019-01-11/11:33:12,message_count=579,position_count=18.
+11Jan19 11:37:00 pid=16289 L vidit current number of flights=9,epoch=2019-01-11/11:37:00,msg_count=4421,pos_count=219,flight_count=18,con_lost=1.
+11Jan19 11:37:00 pid=16289 L vidit removed:4062A4,first seen=2019-01-11/11:31:36,last seen=2019-01-11/11:34:25,message_count=212,position_count=4.
+11Jan19 11:37:00 pid=16289 L vidit removed:AA92FC,first seen=2019-01-11/11:29:18,last seen=2019-01-11/11:34:17,message_count=619,position_count=52.
+11Jan19 11:37:00 pid=16289 L vidit removed:406532,first seen=2019-01-11/11:33:18,last seen=2019-01-11/11:34:56,message_count=32,position_count=1.
+11Jan19 11:38:17 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:38:17,msg_count=4461,pos_count=219,flight_count=18,con_lost=1.
+11Jan19 11:38:17 pid=16289 L vidit removed:5100FA,first seen=2019-01-11/11:34:47,last seen=2019-01-11/11:36:13,message_count=372,position_count=13.
+11Jan19 11:38:17 pid=16289 L vidit removed:AAB001,first seen=2019-01-11/11:34:05,last seen=2019-01-11/11:35:41,message_count=325,position_count=28.
+11Jan19 11:38:17 pid=16289 L vidit removed:484555,first seen=2019-01-11/11:35:14,last seen=2019-01-11/11:35:22,message_count=4,position_count=0.
+11Jan19 11:39:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/11:39:00,msg_count=4511,pos_count=220,flight_count=19,con_lost=1.
+11Jan19 11:40:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:40:00,msg_count=4615,pos_count=223,flight_count=21,con_lost=1.
+11Jan19 11:41:04 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/11:41:04,msg_count=4767,pos_count=229,flight_count=22,con_lost=1.
+11Jan19 11:41:04 pid=16289 L vidit removed:3C6448,first seen=2019-01-11/11:32:57,last seen=2019-01-11/11:38:22,message_count=1137,position_count=52.
+11Jan19 11:41:04 pid=16289 L vidit removed:4CA56C,first seen=2019-01-11/11:36:15,last seen=2019-01-11/11:38:49,message_count=10,position_count=0.
+11Jan19 11:42:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/11:42:00,msg_count=4918,pos_count=234,flight_count=25,con_lost=1.
+11Jan19 11:42:00 pid=16289 L vidit removed:44003F,first seen=2019-01-11/11:38:50,last seen=2019-01-11/11:39:07,message_count=19,position_count=1.
+11Jan19 11:42:00 pid=16289 L vidit removed:400A0E,first seen=2019-01-11/11:36:44,last seen=2019-01-11/11:39:11,message_count=91,position_count=1.
+11Jan19 11:43:08 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/11:43:08,msg_count=4938,pos_count=234,flight_count=26,con_lost=1.
+11Jan19 11:44:01 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/11:44:01,msg_count=5010,pos_count=234,flight_count=27,con_lost=1.
+11Jan19 11:44:01 pid=16289 L vidit removed:8964B0,first seen=2019-01-11/11:41:31,last seen=2019-01-11/11:41:43,message_count=14,position_count=0.
+11Jan19 11:44:01 pid=16289 L vidit removed:8963E6,first seen=2019-01-11/11:39:53,last seen=2019-01-11/11:41:33,message_count=18,position_count=0.
+11Jan19 11:44:01 pid=16289 L vidit removed:3C6502,first seen=2019-01-11/11:39:24,last seen=2019-01-11/11:42:00,message_count=243,position_count=12.
+11Jan19 11:45:07 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/11:45:07,msg_count=5065,pos_count=234,flight_count=27,con_lost=1.
+11Jan19 11:46:17 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:46:17,msg_count=5126,pos_count=236,flight_count=28,con_lost=1.
+11Jan19 11:46:17 pid=16289 L vidit removed:89647D,first seen=2019-01-11/11:41:51,last seen=2019-01-11/11:43:29,message_count=23,position_count=0.
+11Jan19 11:46:17 pid=16289 L vidit removed:A2E0A5,first seen=2019-01-11/11:40:44,last seen=2019-01-11/11:43:58,message_count=12,position_count=1.
+11Jan19 11:46:17 pid=16289 L vidit removed:A1373D,first seen=2019-01-11/11:41:34,last seen=2019-01-11/11:44:06,message_count=91,position_count=0.
+11Jan19 11:47:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/11:47:00,msg_count=5141,pos_count=236,flight_count=29,con_lost=1.
+11Jan19 11:48:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/11:48:00,msg_count=5246,pos_count=241,flight_count=29,con_lost=1.
+11Jan19 11:48:00 pid=16289 L vidit removed:398560,first seen=2019-01-11/11:43:08,last seen=2019-01-11/11:45:39,message_count=153,position_count=0.
+11Jan19 11:49:02 pid=16289 L vidit current number of flights=3,epoch=2019-01-11/11:49:02,msg_count=5297,pos_count=242,flight_count=29,con_lost=1.
+11Jan19 11:49:02 pid=16289 L vidit removed:896478,first seen=2019-01-11/11:45:18,last seen=2019-01-11/11:47:00,message_count=20,position_count=1.
+11Jan19 11:50:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/11:50:00,msg_count=5444,pos_count=248,flight_count=31,con_lost=1.
+11Jan19 11:51:02 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:51:02,msg_count=5696,pos_count=258,flight_count=33,con_lost=1.
+11Jan19 11:51:02 pid=16289 L vidit removed:3C6610,first seen=2019-01-11/11:43:56,last seen=2019-01-11/11:48:16,message_count=59,position_count=2.
+11Jan19 11:52:06 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/11:52:06,msg_count=5826,pos_count=259,flight_count=35,con_lost=1.
+11Jan19 11:52:06 pid=16289 L vidit removed:40756C,first seen=2019-01-11/11:46:52,last seen=2019-01-11/11:49:22,message_count=141,position_count=7.
+11Jan19 11:53:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:53:00,msg_count=5925,pos_count=261,flight_count=35,con_lost=1.
+11Jan19 11:53:00 pid=16289 L vidit removed:405455,first seen=2019-01-11/11:50:24,last seen=2019-01-11/11:50:27,message_count=3,position_count=0.
+11Jan19 11:54:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:54:00,msg_count=5997,pos_count=262,flight_count=36,con_lost=1.
+11Jan19 11:54:00 pid=16289 L vidit removed:AB4BF7,first seen=2019-01-11/11:49:04,last seen=2019-01-11/11:51:40,message_count=327,position_count=7.
+11Jan19 11:54:00 pid=16289 L vidit removed:40688A,first seen=2019-01-11/11:49:18,last seen=2019-01-11/11:51:35,message_count=138,position_count=7.
+11Jan19 11:55:01 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/11:55:01,msg_count=6070,pos_count=263,flight_count=38,con_lost=1.
+11Jan19 11:55:01 pid=16289 L vidit removed:40093D,first seen=2019-01-11/11:51:54,last seen=2019-01-11/11:52:56,message_count=6,position_count=0.
+11Jan19 11:56:04 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/11:56:04,msg_count=6077,pos_count=263,flight_count=38,con_lost=1.
+11Jan19 11:57:00 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/11:57:00,msg_count=6246,pos_count=271,flight_count=40,con_lost=1.
+11Jan19 11:57:00 pid=16289 L vidit removed:4CA727,first seen=2019-01-11/11:54:24,last seen=2019-01-11/11:54:24,message_count=2,position_count=0.
+11Jan19 11:57:00 pid=16289 L vidit removed:400D8D,first seen=2019-01-11/11:50:44,last seen=2019-01-11/11:54:07,message_count=156,position_count=3.
+11Jan19 11:58:00 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/11:58:00,msg_count=6557,pos_count=281,flight_count=40,con_lost=1.
+11Jan19 11:59:45 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/11:59:45,msg_count=6699,pos_count=285,flight_count=42,con_lost=1.
+11Jan19 11:59:45 pid=16289 L vidit removed:440BB8,first seen=2019-01-11/11:54:41,last seen=2019-01-11/11:56:53,message_count=82,position_count=1.
+11Jan19 11:59:45 pid=16289 L vidit removed:000000,first seen=2019-01-11/11:56:41,last seen=2019-01-11/11:57:05,message_count=3,position_count=0.
+11Jan19 11:59:45 pid=16289 L vidit removed:3C656C,first seen=2019-01-11/11:51:44,last seen=2019-01-11/11:56:24,message_count=61,position_count=2.
+11Jan19 12:00:01 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:00:01,msg_count=6700,pos_count=286,flight_count=42,con_lost=1.
+11Jan19 12:00:01 pid=16289 L vidit removed:3C6441,first seen=2019-01-11/11:53:36,last seen=2019-01-11/11:57:59,message_count=66,position_count=3.
+11Jan19 12:01:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:01:00,msg_count=6981,pos_count=306,flight_count=45,con_lost=1.
+11Jan19 12:01:00 pid=16289 L vidit removed:732542,first seen=2019-01-11/11:56:39,last seen=2019-01-11/11:58:24,message_count=446,position_count=15.
+11Jan19 12:02:00 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/12:02:00,msg_count=7165,pos_count=314,flight_count=47,con_lost=1.
+11Jan19 12:03:00 pid=16289 L vidit current number of flights=9,epoch=2019-01-11/12:03:00,msg_count=7422,pos_count=326,flight_count=49,con_lost=1.
+11Jan19 12:03:00 pid=16289 L vidit removed:4CA6A4,first seen=2019-01-11/11:58:04,last seen=2019-01-11/12:00:16,message_count=90,position_count=3.
+11Jan19 12:03:00 pid=16289 L vidit removed:4065DE,first seen=2019-01-11/12:00:02,last seen=2019-01-11/12:00:27,message_count=143,position_count=9.
+11Jan19 12:03:00 pid=16289 L vidit removed:4CA727,first seen=2019-01-11/12:00:26,last seen=2019-01-11/12:00:34,message_count=6,position_count=0.
+11Jan19 12:04:00 pid=16289 L vidit current number of flights=9,epoch=2019-01-11/12:04:00,msg_count=7703,pos_count=336,flight_count=52,con_lost=1.
+11Jan19 12:04:00 pid=16289 L vidit removed:4CA9CD,first seen=2019-01-11/11:58:55,last seen=2019-01-11/12:01:57,message_count=139,position_count=13.
+11Jan19 12:05:00 pid=16289 L vidit current number of flights=9,epoch=2019-01-11/12:05:00,msg_count=7965,pos_count=358,flight_count=53,con_lost=1.
+11Jan19 12:05:00 pid=16289 L vidit removed:A4B508,first seen=2019-01-11/12:01:02,last seen=2019-01-11/12:02:42,message_count=71,position_count=1.
+11Jan19 12:05:00 pid=16289 L vidit removed:8960F4,first seen=2019-01-11/12:00:37,last seen=2019-01-11/12:02:13,message_count=125,position_count=7.
+11Jan19 12:06:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:06:00,msg_count=8308,pos_count=386,flight_count=54,con_lost=1.
+11Jan19 12:06:00 pid=16289 L vidit removed:7380C0,first seen=2019-01-11/12:01:15,last seen=2019-01-11/12:03:03,message_count=108,position_count=2.
+11Jan19 12:06:00 pid=16289 L vidit removed:A21679,first seen=2019-01-11/12:02:00,last seen=2019-01-11/12:03:59,message_count=199,position_count=9.
+11Jan19 12:07:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:07:00,msg_count=8645,pos_count=406,flight_count=54,con_lost=1.
+11Jan19 12:07:00 pid=16289 L vidit removed:3C64C6,first seen=2019-01-11/12:02:40,last seen=2019-01-11/12:04:18,message_count=158,position_count=11.
+11Jan19 12:07:00 pid=16289 L vidit removed:AB1839,first seen=2019-01-11/12:03:53,last seen=2019-01-11/12:04:39,message_count=4,position_count=0.
+11Jan19 12:08:01 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:08:01,msg_count=8858,pos_count=419,flight_count=55,con_lost=1.
+11Jan19 12:08:01 pid=16289 L vidit removed:4CACA9,first seen=2019-01-11/12:03:29,last seen=2019-01-11/12:05:07,message_count=121,position_count=3.
+11Jan19 12:08:01 pid=16289 L vidit removed:896450,first seen=2019-01-11/12:03:51,last seen=2019-01-11/12:05:35,message_count=104,position_count=2.
+11Jan19 12:09:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:09:00,msg_count=8975,pos_count=426,flight_count=58,con_lost=1.
+11Jan19 12:10:13 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:10:13,msg_count=9015,pos_count=429,flight_count=58,con_lost=1.
+11Jan19 12:10:13 pid=16289 L vidit removed:400AFB,first seen=2019-01-11/12:05:36,last seen=2019-01-11/12:08:08,message_count=595,position_count=38.
+11Jan19 12:11:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:11:00,msg_count=9146,pos_count=440,flight_count=59,con_lost=1.
+11Jan19 12:11:00 pid=16289 L vidit removed:3C5462,first seen=2019-01-11/12:04:00,last seen=2019-01-11/12:08:19,message_count=365,position_count=37.
+11Jan19 12:11:00 pid=16289 L vidit removed:AE2FA2,first seen=2019-01-11/12:08:18,last seen=2019-01-11/12:08:28,message_count=9,position_count=1.
+11Jan19 12:12:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:12:00,msg_count=9415,pos_count=463,flight_count=59,con_lost=1.
+11Jan19 12:12:00 pid=16289 L vidit removed:3C650C,first seen=2019-01-11/12:08:55,last seen=2019-01-11/12:09:45,message_count=6,position_count=1.
+11Jan19 12:12:00 pid=16289 L vidit removed:4692D4,first seen=2019-01-11/12:07:18,last seen=2019-01-11/12:09:12,message_count=140,position_count=9.
+11Jan19 12:13:00 pid=16289 L vidit current number of flights=3,epoch=2019-01-11/12:13:00,msg_count=9515,pos_count=468,flight_count=60,con_lost=1.
+11Jan19 12:14:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:14:00,msg_count=9647,pos_count=473,flight_count=61,con_lost=1.
+11Jan19 12:15:03 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:15:03,msg_count=9777,pos_count=480,flight_count=61,con_lost=1.
+11Jan19 12:15:03 pid=16289 L vidit removed:4CA65C,first seen=2019-01-11/12:08:26,last seen=2019-01-11/12:12:39,message_count=66,position_count=2.
+11Jan19 12:16:09 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:16:09,msg_count=9793,pos_count=481,flight_count=63,con_lost=1.
+11Jan19 12:16:09 pid=16289 L vidit removed:4005BB,first seen=2019-01-11/12:12:31,last seen=2019-01-11/12:14:05,message_count=136,position_count=7.
+11Jan19 12:17:01 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:17:01,msg_count=9916,pos_count=482,flight_count=64,con_lost=1.
+11Jan19 12:17:01 pid=16289 L vidit removed:3C650C,first seen=2019-01-11/12:13:48,last seen=2019-01-11/12:14:17,message_count=35,position_count=1.
+11Jan19 12:18:31 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:18:31,msg_count=9919,pos_count=482,flight_count=65,con_lost=1.
+11Jan19 12:18:31 pid=16289 L vidit removed:06A100,first seen=2019-01-11/12:15:35,last seen=2019-01-11/12:15:55,message_count=12,position_count=1.
+11Jan19 12:18:31 pid=16289 L vidit removed:3C65CD,first seen=2019-01-11/12:10:15,last seen=2019-01-11/12:15:05,message_count=551,position_count=42.
+11Jan19 12:19:02 pid=16289 L vidit current number of flights=3,epoch=2019-01-11/12:19:02,msg_count=9932,pos_count=482,flight_count=65,con_lost=1.
+11Jan19 12:19:02 pid=16289 L vidit removed:485061,first seen=2019-01-11/12:15:06,last seen=2019-01-11/12:16:58,message_count=107,position_count=1.
+11Jan19 12:20:00 pid=16289 L vidit current number of flights=2,epoch=2019-01-11/12:20:00,msg_count=10097,pos_count=488,flight_count=65,con_lost=1.
+11Jan19 12:20:00 pid=16289 L vidit removed:4CA213,first seen=2019-01-11/12:16:26,last seen=2019-01-11/12:17:39,message_count=21,position_count=0.
+11Jan19 12:21:00 pid=16289 L vidit current number of flights=2,epoch=2019-01-11/12:21:00,msg_count=10370,pos_count=496,flight_count=66,con_lost=1.
+11Jan19 12:22:00 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:22:00,msg_count=10569,pos_count=507,flight_count=69,con_lost=1.
+11Jan19 12:23:01 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:23:01,msg_count=10729,pos_count=514,flight_count=72,con_lost=1.
+11Jan19 12:23:01 pid=16289 L vidit removed:89618A,first seen=2019-01-11/12:18:31,last seen=2019-01-11/12:20:40,message_count=278,position_count=8.
+11Jan19 12:24:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:24:00,msg_count=10836,pos_count=519,flight_count=73,con_lost=1.
+11Jan19 12:25:00 pid=16289 L vidit current number of flights=9,epoch=2019-01-11/12:25:00,msg_count=11042,pos_count=524,flight_count=74,con_lost=1.
+11Jan19 12:25:00 pid=16289 L vidit removed:406A3E,first seen=2019-01-11/12:22:04,last seen=2019-01-11/12:22:22,message_count=35,position_count=2.
+11Jan19 12:25:00 pid=16289 L vidit removed:06A14A,first seen=2019-01-11/12:21:20,last seen=2019-01-11/12:22:08,message_count=157,position_count=8.
+11Jan19 12:25:00 pid=16289 L vidit removed:4CA213,first seen=2019-01-11/12:20:03,last seen=2019-01-11/12:22:31,message_count=217,position_count=9.
+11Jan19 12:25:00 pid=16289 L vidit removed:A1E06C,first seen=2019-01-11/12:22:36,last seen=2019-01-11/12:22:54,message_count=15,position_count=1.
+11Jan19 12:26:00 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/12:26:00,msg_count=11184,pos_count=533,flight_count=76,con_lost=1.
+11Jan19 12:26:00 pid=16289 L vidit removed:4CA1B4,first seen=2019-01-11/12:21:33,last seen=2019-01-11/12:23:05,message_count=12,position_count=0.
+11Jan19 12:26:00 pid=16289 L vidit removed:3C64EE,first seen=2019-01-11/12:22:42,last seen=2019-01-11/12:23:49,message_count=20,position_count=0.
+11Jan19 12:27:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:27:00,msg_count=12018,pos_count=581,flight_count=77,con_lost=1.
+11Jan19 12:27:00 pid=16289 L vidit removed:4010EB,first seen=2019-01-11/12:21:52,last seen=2019-01-11/12:24:17,message_count=158,position_count=8.
+11Jan19 12:27:00 pid=16289 L vidit removed:424344,first seen=2019-01-11/12:24:24,last seen=2019-01-11/12:24:33,message_count=8,position_count=1.
+11Jan19 12:28:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:28:00,msg_count=12375,pos_count=601,flight_count=81,con_lost=1.
+11Jan19 12:29:06 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:29:06,msg_count=12385,pos_count=601,flight_count=81,con_lost=1.
+11Jan19 12:29:06 pid=16289 L vidit removed:3CCD4B,first seen=2019-01-11/12:26:28,last seen=2019-01-11/12:26:42,message_count=8,position_count=0.
+11Jan19 12:30:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:30:00,msg_count=12613,pos_count=615,flight_count=82,con_lost=1.
+11Jan19 12:30:00 pid=16289 L vidit removed:A8699A,first seen=2019-01-11/12:25:49,last seen=2019-01-11/12:27:42,message_count=709,position_count=45.
+11Jan19 12:30:00 pid=16289 L vidit removed:3C64EE,first seen=2019-01-11/12:27:08,last seen=2019-01-11/12:27:52,message_count=3,position_count=0.
+11Jan19 12:30:00 pid=16289 L vidit removed:A14C29,first seen=2019-01-11/12:27:37,last seen=2019-01-11/12:27:39,message_count=10,position_count=1.
+11Jan19 12:30:00 pid=16289 L vidit removed:484188,first seen=2019-01-11/12:27:21,last seen=2019-01-11/12:27:38,message_count=17,position_count=0.
+11Jan19 12:31:10 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:31:10,msg_count=12621,pos_count=615,flight_count=82,con_lost=1.
+11Jan19 12:31:10 pid=16289 L vidit removed:344508,first seen=2019-01-11/12:23:37,last seen=2019-01-11/12:28:28,message_count=379,position_count=8.
+11Jan19 12:32:10 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:32:10,msg_count=12698,pos_count=616,flight_count=83,con_lost=1.
+11Jan19 12:32:10 pid=16289 L vidit removed:75044B,first seen=2019-01-11/12:27:58,last seen=2019-01-11/12:29:24,message_count=54,position_count=2.
+11Jan19 12:32:10 pid=16289 L vidit removed:4951CD,first seen=2019-01-11/12:25:49,last seen=2019-01-11/12:29:45,message_count=462,position_count=31.
+11Jan19 12:33:08 pid=16289 L vidit current number of flights=3,epoch=2019-01-11/12:33:08,msg_count=12699,pos_count=616,flight_count=84,con_lost=1.
+11Jan19 12:34:16 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:34:16,msg_count=12711,pos_count=617,flight_count=85,con_lost=1.
+11Jan19 12:34:16 pid=16289 L vidit removed:4CA8D4,first seen=2019-01-11/12:31:48,last seen=2019-01-11/12:32:10,message_count=18,position_count=0.
+11Jan19 12:34:16 pid=16289 L vidit removed:400A25,first seen=2019-01-11/12:29:16,last seen=2019-01-11/12:31:35,message_count=220,position_count=10.
+11Jan19 12:35:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:35:00,msg_count=12995,pos_count=635,flight_count=87,con_lost=1.
+11Jan19 12:36:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:36:00,msg_count=13644,pos_count=679,flight_count=87,con_lost=1.
+11Jan19 12:37:00 pid=16289 L vidit current number of flights=4,epoch=2019-01-11/12:37:00,msg_count=14033,pos_count=695,flight_count=87,con_lost=1.
+11Jan19 12:38:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:38:00,msg_count=14148,pos_count=700,flight_count=89,con_lost=1.
+11Jan19 12:38:00 pid=16289 L vidit removed:44CE77,first seen=2019-01-11/12:33:41,last seen=2019-01-11/12:35:13,message_count=62,position_count=7.
+11Jan19 12:39:01 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:39:01,msg_count=14514,pos_count=702,flight_count=89,con_lost=1.
+11Jan19 12:39:01 pid=16289 L vidit removed:01013C,first seen=2019-01-11/12:34:32,last seen=2019-01-11/12:36:22,message_count=171,position_count=4.
+11Jan19 12:40:00 pid=16289 L vidit current number of flights=5,epoch=2019-01-11/12:40:00,msg_count=15020,pos_count=711,flight_count=90,con_lost=1.
+11Jan19 12:40:00 pid=16289 L vidit removed:4CA24D,first seen=2019-01-11/12:33:08,last seen=2019-01-11/12:37:46,message_count=639,position_count=47.
+11Jan19 12:41:00 pid=16289 L vidit current number of flights=6,epoch=2019-01-11/12:41:00,msg_count=15274,pos_count=728,flight_count=92,con_lost=1.
+11Jan19 12:41:00 pid=16289 L vidit removed:4BAA08,first seen=2019-01-11/12:34:57,last seen=2019-01-11/12:38:43,message_count=557,position_count=26.
+11Jan19 12:42:00 pid=16289 L vidit current number of flights=7,epoch=2019-01-11/12:42:00,msg_count=15705,pos_count=735,flight_count=94,con_lost=1.
+11Jan19 12:42:00 pid=16289 L vidit removed:40650B,first seen=2019-01-11/12:37:52,last seen=2019-01-11/12:39:54,message_count=556,position_count=0.
+11Jan19 12:43:00 pid=16289 L vidit current number of flights=8,epoch=2019-01-11/12:43:00,msg_count=16148,pos_count=745,flight_count=96,con_lost=1.
+11Jan19 12:43:00 pid=16289 L vidit removed:AB4866,first seen=2019-01-11/12:37:46,last seen=2019-01-11/12:40:44,message_count=385,position_count=14.
+11Jan19 12:44:00 pid=16289 L vidit current number of flights=10,epoch=2019-01-11/12:44:00,msg_count=17311,pos_count=773,flight_count=99,con_lost=1.
+11Jan19 12:44:00 pid=16289 L vidit removed:4CA898,first seen=2019-01-11/12:40:35,last seen=2019-01-11/12:41:13,message_count=37,position_count=2.
