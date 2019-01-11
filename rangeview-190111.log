@@ -1,0 +1,157 @@
+11Jan19 10:38:40 pid=30038 - vidit === NEW RUN MARKER ============================
+11Jan19 10:38:40 pid=30038 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+11Jan19 10:38:40 pid=30038 L vidit Section: [common]
+11Jan19 10:38:40 pid=30038 L vidit    filemask = dump*.txt
+11Jan19 10:38:40 pid=30038 L vidit    #datadirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    #logdirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    piddirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    #outputdirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    distanceunit = kilometer
+11Jan19 10:38:40 pid=30038 L vidit    altitudeunit = meter
+11Jan19 10:38:40 pid=30038 L vidit    speedunit = kilometerph
+11Jan19 10:38:40 pid=30038 L vidit    latitude = 49.9455248
+11Jan19 10:38:40 pid=30038 L vidit    longitude = 7.9430989
+11Jan19 10:38:40 pid=30038 L vidit    override = no
+11Jan19 10:38:40 pid=30038 L vidit    timestamp = no
+11Jan19 10:38:40 pid=30038 L vidit    sequencenumber = no
+11Jan19 10:38:40 pid=30038 L vidit Section: [rangeview]
+11Jan19 10:38:40 pid=30038 L vidit    maxaltitudemeter = 12000
+11Jan19 10:38:40 pid=30038 L vidit    maxaltitudefeet = 36000
+11Jan19 10:38:40 pid=30038 L vidit    minaltitude = 0
+11Jan19 10:38:40 pid=30038 L vidit    numberofdirections = 1440
+11Jan19 10:38:40 pid=30038 L vidit    numberofaltitudezones = 24
+11Jan19 10:38:40 pid=30038 L vidit    outputdatafile = rangeview.kml
+11Jan19 10:38:40 pid=30038 L vidit    #distanceunit = kilometer,kilometer
+11Jan19 10:38:40 pid=30038 L vidit    #altitudeunit = meter,meter
+11Jan19 10:38:40 pid=30038 L vidit    #filemask = dump*.txt
+11Jan19 10:38:40 pid=30038 L vidit    #datadirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    #logdirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    #outputdirectory = /tmp
+11Jan19 10:38:40 pid=30038 L vidit    #latitude = 52.085624
+11Jan19 10:38:40 pid=30038 L vidit    #longitude = 5.0890591
+11Jan19 10:38:40 pid=30038 L vidit    #override = no
+11Jan19 10:38:40 pid=30038 L vidit    #timestamp = yes
+11Jan19 10:38:40 pid=30038 L vidit    #sequencenumber = yes
+11Jan19 10:38:40 pid=30038 I vidit Log file: './dump/rangeview-190111.log'
+11Jan19 10:38:40 pid=30038 L vidit outputdirectory=./dump,outputdatafile=rangeview.kml(name=rangeview,extention=.kml),override=yes,timestamp=no,sequencenumber=no.
+11Jan19 10:38:40 pid=30038 I vidit Output file: './dump/rangeview.kml'
+11Jan19 10:38:40 pid=30038 I vidit The maximum altitude is 12000 meter.
+11Jan19 10:38:40 pid=30038 I vidit The minimal altitude is 0 meter.
+11Jan19 10:38:40 pid=30038 I vidit The number of compass directions (pie slices) is 1440.
+11Jan19 10:38:40 pid=30038 I vidit The number of altitude zones is 24.
+11Jan19 10:38:40 pid=30038 I vidit The latitude/longitude location of the antenna is: 49.9455248,7.9430989.
+11Jan19 10:38:40 pid=30038 I vidit An altitude zone is 500 meter.
+11Jan19 10:38:40 pid=30038 I vidit The following files fit with the filemask '*dump*.txt*':
+11Jan19 10:38:40 pid=30038 I vidit     ./dump/dump1090-127_0_0_1-190110.txt
+11Jan19 10:38:40 pid=30038 I vidit     ./dump/dump1090-127_0_0_1-190111.txt
+11Jan19 10:38:40 pid=30038 I vidit processing './dump/dump1090-127_0_0_1-190110.txt':
+11Jan19 10:38:40 pid=30038 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 1665 processed.
+11Jan19 10:38:40 pid=30038 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1666-20268. processed.
+11Jan19 10:38:40 pid=30038 I vidit processing './dump/dump1090-127_0_0_1-190111.txt':
+11Jan19 10:38:40 pid=30038 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 4 processed.
+11Jan19 10:38:40 pid=30038 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 5-592. processed.
+11Jan19 10:38:40 pid=30038 I vidit Number of files read: 2
+11Jan19 10:38:40 pid=30038 I vidit Number of position processed: 20858 and positions within range processed: 19377
+11Jan19 10:38:40 pid=30038 I vidit   1,Altitude zone:     0-   499,Directions:   19/ 1440,Positions processed:        20,Positions processed per direction: min:     1,max:     2,avg:     0,real avg:     1
+11Jan19 10:38:40 pid=30038 I vidit   2,Altitude zone:   500-   999,Directions:   30/ 1440,Positions processed:        16,Positions processed per direction: min:     0,max:     1,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit   3,Altitude zone:  1000-  1499,Directions: 1035/ 1440,Positions processed:      2644,Positions processed per direction: min:     1,max:    49,avg:     1,real avg:     2
+11Jan19 10:38:40 pid=30038 I vidit   4,Altitude zone:  1500-  1999,Directions:  891/ 1440,Positions processed:      1858,Positions processed per direction: min:     0,max:    30,avg:     1,real avg:     2
+11Jan19 10:38:40 pid=30038 I vidit   5,Altitude zone:  2000-  2499,Directions: 1062/ 1440,Positions processed:      1421,Positions processed per direction: min:     0,max:    21,avg:     0,real avg:     1
+11Jan19 10:38:40 pid=30038 I vidit   6,Altitude zone:  2500-  2999,Directions:  932/ 1440,Positions processed:       921,Positions processed per direction: min:     0,max:    23,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit   7,Altitude zone:  3000-  3499,Directions:  821/ 1440,Positions processed:       791,Positions processed per direction: min:     0,max:    25,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit   8,Altitude zone:  3500-  3999,Directions:  760/ 1440,Positions processed:       302,Positions processed per direction: min:     0,max:    19,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit   9,Altitude zone:  4000-  4499,Directions:  651/ 1440,Positions processed:        36,Positions processed per direction: min:     0,max:     3,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  10,Altitude zone:  4500-  4999,Directions:  708/ 1440,Positions processed:        95,Positions processed per direction: min:     0,max:     3,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  11,Altitude zone:  5000-  5499,Directions:  772/ 1440,Positions processed:       189,Positions processed per direction: min:     0,max:     4,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  12,Altitude zone:  5500-  5999,Directions:  808/ 1440,Positions processed:       298,Positions processed per direction: min:     0,max:     9,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  13,Altitude zone:  6000-  6499,Directions:  834/ 1440,Positions processed:       442,Positions processed per direction: min:     0,max:    11,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  14,Altitude zone:  6500-  6999,Directions:  825/ 1440,Positions processed:       478,Positions processed per direction: min:     0,max:    16,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  15,Altitude zone:  7000-  7499,Directions:  910/ 1440,Positions processed:       650,Positions processed per direction: min:     0,max:    22,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  16,Altitude zone:  7500-  7999,Directions:  659/ 1440,Positions processed:        65,Positions processed per direction: min:     0,max:     6,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  17,Altitude zone:  8000-  8499,Directions:  673/ 1440,Positions processed:        95,Positions processed per direction: min:     0,max:     7,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  18,Altitude zone:  8500-  8999,Directions:  689/ 1440,Positions processed:        67,Positions processed per direction: min:     0,max:     2,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  19,Altitude zone:  9000-  9499,Directions:  853/ 1440,Positions processed:       436,Positions processed per direction: min:     0,max:    11,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  20,Altitude zone:  9500-  9999,Directions:  708/ 1440,Positions processed:       125,Positions processed per direction: min:     0,max:    10,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  21,Altitude zone: 10000- 10499,Directions:  916/ 1440,Positions processed:       907,Positions processed per direction: min:     0,max:    12,avg:     0,real avg:     0
+11Jan19 10:38:40 pid=30038 I vidit  22,Altitude zone: 10500- 10999,Directions:  991/ 1440,Positions processed:      1879,Positions processed per direction: min:     0,max:    29,avg:     1,real avg:     1
+11Jan19 10:38:40 pid=30038 I vidit  23,Altitude zone: 11000- 11499,Directions: 1045/ 1440,Positions processed:      2801,Positions processed per direction: min:     0,max:    70,avg:     1,real avg:     2
+11Jan19 10:38:40 pid=30038 I vidit  24,Altitude zone: 11500- 11999,Directions: 1050/ 1440,Positions processed:      2841,Positions processed per direction: min:     0,max:    72,avg:     1,real avg:     2
+11Jan19 11:33:46 pid=23169 - vidit === NEW RUN MARKER ============================
+11Jan19 11:33:46 pid=23169 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+11Jan19 11:33:46 pid=23169 L vidit Section: [common]
+11Jan19 11:33:46 pid=23169 L vidit    filemask = dump*.txt
+11Jan19 11:33:46 pid=23169 L vidit    #datadirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    #logdirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    piddirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    #outputdirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    distanceunit = kilometer
+11Jan19 11:33:46 pid=23169 L vidit    altitudeunit = meter
+11Jan19 11:33:46 pid=23169 L vidit    speedunit = kilometerph
+11Jan19 11:33:46 pid=23169 L vidit    latitude = 49.9455248
+11Jan19 11:33:46 pid=23169 L vidit    longitude = 7.9430989
+11Jan19 11:33:46 pid=23169 L vidit    override = no
+11Jan19 11:33:46 pid=23169 L vidit    timestamp = no
+11Jan19 11:33:46 pid=23169 L vidit    sequencenumber = no
+11Jan19 11:33:46 pid=23169 L vidit Section: [rangeview]
+11Jan19 11:33:46 pid=23169 L vidit    maxaltitudemeter = 12000
+11Jan19 11:33:46 pid=23169 L vidit    maxaltitudefeet = 36000
+11Jan19 11:33:46 pid=23169 L vidit    minaltitude = 0
+11Jan19 11:33:46 pid=23169 L vidit    numberofdirections = 1440
+11Jan19 11:33:46 pid=23169 L vidit    numberofaltitudezones = 24
+11Jan19 11:33:46 pid=23169 L vidit    outputdatafile = rangeview.kml
+11Jan19 11:33:46 pid=23169 L vidit    #distanceunit = kilometer,kilometer
+11Jan19 11:33:46 pid=23169 L vidit    #altitudeunit = meter,meter
+11Jan19 11:33:46 pid=23169 L vidit    #filemask = dump*.txt
+11Jan19 11:33:46 pid=23169 L vidit    #datadirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    #logdirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    #outputdirectory = /tmp
+11Jan19 11:33:46 pid=23169 L vidit    #latitude = 52.085624
+11Jan19 11:33:46 pid=23169 L vidit    #longitude = 5.0890591
+11Jan19 11:33:46 pid=23169 L vidit    #override = no
+11Jan19 11:33:46 pid=23169 L vidit    #timestamp = yes
+11Jan19 11:33:46 pid=23169 L vidit    #sequencenumber = yes
+11Jan19 11:33:46 pid=23169 I vidit Log file: './dump/rangeview-190111.log'
+11Jan19 11:33:46 pid=23169 L vidit outputdirectory=./dump,outputdatafile=rangeview.kml(name=rangeview,extention=.kml),override=yes,timestamp=no,sequencenumber=no.
+11Jan19 11:33:46 pid=23169 I vidit Output file: './dump/rangeview.kml'
+11Jan19 11:33:46 pid=23169 I vidit The maximum altitude is 12000 meter.
+11Jan19 11:33:46 pid=23169 I vidit The minimal altitude is 0 meter.
+11Jan19 11:33:46 pid=23169 I vidit The number of compass directions (pie slices) is 1440.
+11Jan19 11:33:46 pid=23169 I vidit The number of altitude zones is 24.
+11Jan19 11:33:46 pid=23169 I vidit The latitude/longitude location of the antenna is: 49.9455248,7.9430989.
+11Jan19 11:33:46 pid=23169 I vidit An altitude zone is 500 meter.
+11Jan19 11:33:46 pid=23169 I vidit The following files fit with the filemask '*dump*.txt*':
+11Jan19 11:33:46 pid=23169 I vidit     ./dump/dump1090-127_0_0_1-190110.txt
+11Jan19 11:33:46 pid=23169 I vidit     ./dump/dump1090-127_0_0_1-190111.txt
+11Jan19 11:33:46 pid=23169 I vidit processing './dump/dump1090-127_0_0_1-190110.txt':
+11Jan19 11:33:46 pid=23169 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 1665 processed.
+11Jan19 11:33:46 pid=23169 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1666-20268. processed.
+11Jan19 11:33:46 pid=23169 I vidit processing './dump/dump1090-127_0_0_1-190111.txt':
+11Jan19 11:33:46 pid=23169 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 4 processed.
+11Jan19 11:33:46 pid=23169 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 5- 593 processed.
+11Jan19 11:33:46 pid=23169 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 594-726. processed.
+11Jan19 11:33:46 pid=23169 I vidit Number of files read: 2
+11Jan19 11:33:46 pid=23169 I vidit Number of position processed: 20991 and positions within range processed: 19510
+11Jan19 11:33:46 pid=23169 I vidit   1,Altitude zone:     0-   499,Directions:   19/ 1440,Positions processed:        20,Positions processed per direction: min:     1,max:     2,avg:     0,real avg:     1
+11Jan19 11:33:46 pid=23169 I vidit   2,Altitude zone:   500-   999,Directions:   30/ 1440,Positions processed:        16,Positions processed per direction: min:     0,max:     1,avg:     0,real avg:     0
+11Jan19 11:33:46 pid=23169 I vidit   3,Altitude zone:  1000-  1499,Directions: 1035/ 1440,Positions processed:      2644,Positions processed per direction: min:     1,max:    49,avg:     1,real avg:     2
+11Jan19 11:33:47 pid=23169 I vidit   4,Altitude zone:  1500-  1999,Directions:  891/ 1440,Positions processed:      1858,Positions processed per direction: min:     0,max:    30,avg:     1,real avg:     2
+11Jan19 11:33:47 pid=23169 I vidit   5,Altitude zone:  2000-  2499,Directions: 1062/ 1440,Positions processed:      1421,Positions processed per direction: min:     0,max:    21,avg:     0,real avg:     1
+11Jan19 11:33:47 pid=23169 I vidit   6,Altitude zone:  2500-  2999,Directions:  932/ 1440,Positions processed:       921,Positions processed per direction: min:     0,max:    23,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit   7,Altitude zone:  3000-  3499,Directions:  829/ 1440,Positions processed:       843,Positions processed per direction: min:     0,max:    25,avg:     0,real avg:     1
+11Jan19 11:33:47 pid=23169 I vidit   8,Altitude zone:  3500-  3999,Directions:  760/ 1440,Positions processed:       302,Positions processed per direction: min:     0,max:    19,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit   9,Altitude zone:  4000-  4499,Directions:  651/ 1440,Positions processed:        36,Positions processed per direction: min:     0,max:     3,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  10,Altitude zone:  4500-  4999,Directions:  708/ 1440,Positions processed:        95,Positions processed per direction: min:     0,max:     3,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  11,Altitude zone:  5000-  5499,Directions:  772/ 1440,Positions processed:       189,Positions processed per direction: min:     0,max:     4,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  12,Altitude zone:  5500-  5999,Directions:  808/ 1440,Positions processed:       298,Positions processed per direction: min:     0,max:     9,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  13,Altitude zone:  6000-  6499,Directions:  838/ 1440,Positions processed:       449,Positions processed per direction: min:     0,max:    11,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  14,Altitude zone:  6500-  6999,Directions:  827/ 1440,Positions processed:       484,Positions processed per direction: min:     0,max:    16,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  15,Altitude zone:  7000-  7499,Directions:  910/ 1440,Positions processed:       650,Positions processed per direction: min:     0,max:    22,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  16,Altitude zone:  7500-  7999,Directions:  659/ 1440,Positions processed:        65,Positions processed per direction: min:     0,max:     6,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  17,Altitude zone:  8000-  8499,Directions:  673/ 1440,Positions processed:        95,Positions processed per direction: min:     0,max:     7,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  18,Altitude zone:  8500-  8999,Directions:  689/ 1440,Positions processed:        67,Positions processed per direction: min:     0,max:     2,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  19,Altitude zone:  9000-  9499,Directions:  857/ 1440,Positions processed:       442,Positions processed per direction: min:     0,max:    11,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  20,Altitude zone:  9500-  9999,Directions:  708/ 1440,Positions processed:       125,Positions processed per direction: min:     0,max:    10,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  21,Altitude zone: 10000- 10499,Directions:  917/ 1440,Positions processed:       908,Positions processed per direction: min:     0,max:    12,avg:     0,real avg:     0
+11Jan19 11:33:47 pid=23169 I vidit  22,Altitude zone: 10500- 10999,Directions:  991/ 1440,Positions processed:      1882,Positions processed per direction: min:     0,max:    29,avg:     1,real avg:     1
+11Jan19 11:33:47 pid=23169 I vidit  23,Altitude zone: 11000- 11499,Directions: 1052/ 1440,Positions processed:      2841,Positions processed per direction: min:     0,max:    70,avg:     1,real avg:     2
+11Jan19 11:33:47 pid=23169 I vidit  24,Altitude zone: 11500- 11999,Directions: 1052/ 1440,Positions processed:      2859,Positions processed per direction: min:     0,max:    72,avg:     1,real avg:     2

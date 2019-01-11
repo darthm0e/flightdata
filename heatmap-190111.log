@@ -1,0 +1,103 @@
+11Jan19 10:38:35 pid=29957 - vidit === NEW RUN MARKER ============================
+11Jan19 10:38:35 pid=29957 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+11Jan19 10:38:35 pid=29957 L vidit Section: [common]
+11Jan19 10:38:35 pid=29957 L vidit    filemask = dump*.txt
+11Jan19 10:38:35 pid=29957 L vidit    #datadirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    #logdirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    piddirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    #outputdirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    distanceunit = kilometer
+11Jan19 10:38:35 pid=29957 L vidit    altitudeunit = meter
+11Jan19 10:38:35 pid=29957 L vidit    speedunit = kilometerph
+11Jan19 10:38:35 pid=29957 L vidit    latitude = 49.9455248
+11Jan19 10:38:35 pid=29957 L vidit    longitude = 7.9430989
+11Jan19 10:38:35 pid=29957 L vidit    override = no
+11Jan19 10:38:35 pid=29957 L vidit    timestamp = no
+11Jan19 10:38:35 pid=29957 L vidit    sequencenumber = no
+11Jan19 10:38:35 pid=29957 L vidit Section: [heatmap]
+11Jan19 10:38:35 pid=29957 L vidit    degrees = 5
+11Jan19 10:38:35 pid=29957 L vidit    resolution = 1000
+11Jan19 10:38:35 pid=29957 L vidit    max_positions = 100000
+11Jan19 10:38:35 pid=29957 L vidit    max_weight = 1000
+11Jan19 10:38:35 pid=29957 L vidit    outputdatafile = heatmapdata.csv
+11Jan19 10:38:35 pid=29957 L vidit    #filemask = dump*.txt
+11Jan19 10:38:35 pid=29957 L vidit    #datadirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    #logdirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    #outputdirectory = /tmp
+11Jan19 10:38:35 pid=29957 L vidit    #latitude = 52.085624
+11Jan19 10:38:35 pid=29957 L vidit    #longitude = 5.0890591
+11Jan19 10:38:35 pid=29957 L vidit    #override = no
+11Jan19 10:38:35 pid=29957 L vidit    #timestamp = yes
+11Jan19 10:38:35 pid=29957 L vidit    #sequencenumber = yes
+11Jan19 10:38:35 pid=29957 I vidit Log file: './dump/heatmap-190111.log'
+11Jan19 10:38:35 pid=29957 I vidit There will be no more then '100000' positions in the output file.
+11Jan19 10:38:35 pid=29957 I vidit The maximum position weight will be not more then '1000'.
+11Jan19 10:38:35 pid=29957 L vidit outputdirectory=./dump,outputdatafile=heatmapdata.csv(name=heatmapdata,extention=.csv),override=yes,timestamp=no,sequencenumber=no.
+11Jan19 10:38:35 pid=29957 I vidit Output file: './dump/heatmapdata.csv'
+11Jan19 10:38:35 pid=29957 I vidit The resolution op the heatmap will be 1000x1000.
+11Jan19 10:38:35 pid=29957 I vidit The antenna latitude & longitude are: '49.945','7.943'.
+11Jan19 10:38:35 pid=29957 I vidit The heatmap will cover the area of 5 degree around the antenna, which is between latitude 44.9 - 54.9 and longitude 2.9 - 12.9.
+11Jan19 10:38:35 pid=29957 I vidit The following files in directory './dump' fit with the filemask '*dump*.txt*':
+11Jan19 10:38:35 pid=29957 I vidit   ./dump/dump1090-127_0_0_1-190110.txt
+11Jan19 10:38:35 pid=29957 I vidit   ./dump/dump1090-127_0_0_1-190111.txt
+11Jan19 10:38:35 pid=29957 I vidit Processing file './dump/dump1090-127_0_0_1-190110.txt':
+11Jan19 10:38:35 pid=29957 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 1665 processed.
+11Jan19 10:38:35 pid=29957 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1666-20268 processed. 0 positions were out side the specified area.
+11Jan19 10:38:35 pid=29957 I vidit Processing file './dump/dump1090-127_0_0_1-190111.txt':
+11Jan19 10:38:35 pid=29957 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 4 processed.
+11Jan19 10:38:35 pid=29957 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 5-592 processed. 0 positions were out side the specified area.
+11Jan19 10:38:35 pid=29957 I vidit Number of sorted heatmap positions: 3034
+11Jan19 10:38:35 pid=29957 I vidit The highest weight is '00000138' and the lowest weight is '00000002'.
+11Jan19 10:38:35 pid=29957 I vidit 1695 rows with heatmap position data processed!
+11Jan19 11:33:54 pid=23315 - vidit === NEW RUN MARKER ============================
+11Jan19 11:33:54 pid=23315 L vidit Reading parameters and values from '/home/vidit/GIT/dump1090.socket30003/socket30003.cfg' config file:
+11Jan19 11:33:54 pid=23315 L vidit Section: [common]
+11Jan19 11:33:54 pid=23315 L vidit    filemask = dump*.txt
+11Jan19 11:33:54 pid=23315 L vidit    #datadirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    #logdirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    piddirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    #outputdirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    distanceunit = kilometer
+11Jan19 11:33:54 pid=23315 L vidit    altitudeunit = meter
+11Jan19 11:33:54 pid=23315 L vidit    speedunit = kilometerph
+11Jan19 11:33:54 pid=23315 L vidit    latitude = 49.9455248
+11Jan19 11:33:54 pid=23315 L vidit    longitude = 7.9430989
+11Jan19 11:33:54 pid=23315 L vidit    override = no
+11Jan19 11:33:54 pid=23315 L vidit    timestamp = no
+11Jan19 11:33:54 pid=23315 L vidit    sequencenumber = no
+11Jan19 11:33:54 pid=23315 L vidit Section: [heatmap]
+11Jan19 11:33:54 pid=23315 L vidit    degrees = 5
+11Jan19 11:33:54 pid=23315 L vidit    resolution = 1000
+11Jan19 11:33:54 pid=23315 L vidit    max_positions = 100000
+11Jan19 11:33:54 pid=23315 L vidit    max_weight = 1000
+11Jan19 11:33:54 pid=23315 L vidit    outputdatafile = heatmapdata.csv
+11Jan19 11:33:54 pid=23315 L vidit    #filemask = dump*.txt
+11Jan19 11:33:54 pid=23315 L vidit    #datadirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    #logdirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    #outputdirectory = /tmp
+11Jan19 11:33:54 pid=23315 L vidit    #latitude = 52.085624
+11Jan19 11:33:54 pid=23315 L vidit    #longitude = 5.0890591
+11Jan19 11:33:54 pid=23315 L vidit    #override = no
+11Jan19 11:33:54 pid=23315 L vidit    #timestamp = yes
+11Jan19 11:33:54 pid=23315 L vidit    #sequencenumber = yes
+11Jan19 11:33:54 pid=23315 I vidit Log file: './dump/heatmap-190111.log'
+11Jan19 11:33:54 pid=23315 I vidit There will be no more then '100000' positions in the output file.
+11Jan19 11:33:54 pid=23315 I vidit The maximum position weight will be not more then '1000'.
+11Jan19 11:33:54 pid=23315 L vidit outputdirectory=./dump,outputdatafile=heatmapdata.csv(name=heatmapdata,extention=.csv),override=yes,timestamp=no,sequencenumber=no.
+11Jan19 11:33:54 pid=23315 I vidit Output file: './dump/heatmapdata.csv'
+11Jan19 11:33:54 pid=23315 I vidit The resolution op the heatmap will be 1000x1000.
+11Jan19 11:33:54 pid=23315 I vidit The antenna latitude & longitude are: '49.945','7.943'.
+11Jan19 11:33:54 pid=23315 I vidit The heatmap will cover the area of 5 degree around the antenna, which is between latitude 44.9 - 54.9 and longitude 2.9 - 12.9.
+11Jan19 11:33:54 pid=23315 I vidit The following files in directory './dump' fit with the filemask '*dump*.txt*':
+11Jan19 11:33:54 pid=23315 I vidit   ./dump/dump1090-127_0_0_1-190110.txt
+11Jan19 11:33:54 pid=23315 I vidit   ./dump/dump1090-127_0_0_1-190111.txt
+11Jan19 11:33:54 pid=23315 I vidit Processing file './dump/dump1090-127_0_0_1-190110.txt':
+11Jan19 11:33:54 pid=23315 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 1665 processed.
+11Jan19 11:33:54 pid=23315 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1666-20268 processed. 0 positions were out side the specified area.
+11Jan19 11:33:54 pid=23315 I vidit Processing file './dump/dump1090-127_0_0_1-190111.txt':
+11Jan19 11:33:54 pid=23315 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 1- 4 processed.
+11Jan19 11:33:54 pid=23315 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 5- 593 processed.
+11Jan19 11:33:54 pid=23315 I vidit   -header units:altitude=meter,distance=kilometer,ground_speed=kilometerph, position 594-727 processed. 0 positions were out side the specified area.
+11Jan19 11:33:54 pid=23315 I vidit Number of sorted heatmap positions: 3055
+11Jan19 11:33:54 pid=23315 I vidit The highest weight is '00000138' and the lowest weight is '00000002'.
+11Jan19 11:33:54 pid=23315 I vidit 1706 rows with heatmap position data processed!
